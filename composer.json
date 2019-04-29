@@ -1,5 +1,5 @@
 {
-  "name": "machbarmacher/gdpr-dump",
+  "name": "calimanleontin/gdpr-dump",
   "description": "A drop-in replacement for mysqldump that optionally sanitizes DB fields for better GDPR conformity.",
   "require": {
     "symfony/console": "^3.0",
